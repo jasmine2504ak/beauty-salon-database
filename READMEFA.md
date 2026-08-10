@@ -1,4 +1,4 @@
-*.pdf
+
 # beauty-salon-database
 # 📊 پایگاه داده سالن زیبایی | Beauty Salon Database
 
